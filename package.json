@@ -1,0 +1,26 @@
+{
+  "name": "farming",
+  "version": "1.0.0",
+  "description": "node.js custom http.createServer",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnab-datta/farming.git"
+  },
+  "author": "Arnab Datta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnab-datta/farming/issues"
+  },
+  "homepage": "https://github.com/arnab-datta/farming#readme",
+  "dependencies": {
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
