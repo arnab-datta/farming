@@ -1,0 +1,3 @@
+This is output string.
+This is the input file
+Created on 1767900767189
